@@ -4,7 +4,7 @@ This is a GUI Pyhon (Kivy) based project, which basically tells the free parking
 In main.py, under the section of get_otp, where email is sent of forgot password needs to be fill with your own email and password for its successful working.
 
 Requirements - 
-firebase installed (pip install firebase)
-kivy installed
-json installed
+firebase installed (pip install firebase),
+kivy installed,
+json installed,
 requests installed
